@@ -15,5 +15,5 @@ public class NewTest {
 	  System.setProperty("webdriver.chrome.driver","chromedriver.exe");
 
 	   driver = new ChromeDriver();
-	driver.get("https://www.softwaretestingmaterial.com/");
+	driver.get("https://www.GOOGLE.com/");
   }}
