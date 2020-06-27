@@ -12,7 +12,7 @@ public class NewTest {
 	
   @Test
   public void openMyBlog() {
-	  System.setProperty("webdriver.chrome.driver","chromedriver.exe");
+	  System.setProperty("webdriver.chrome.driver","chromedriverfdg.exe");
 
 	   driver = new ChromeDriver();
 	driver.get("https://www.GOOGLE.com/");
